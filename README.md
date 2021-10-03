@@ -1,3 +1,10 @@
+![Table_Create](https://user-images.githubusercontent.com/53007019/135767421-8f4bf38c-b1ad-4bac-9dcc-3e01a7d3cd03.gif)
+
+#Input_Table_Form made in react js(TypeScript)
+-> classComponets use 
+-> dynamic table create 
+-> input take from form Name, age, marks with this fields
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
