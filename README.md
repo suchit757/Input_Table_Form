@@ -2,7 +2,7 @@
 
 ![Input_Table_form-App](https://user-images.githubusercontent.com/53007019/136616743-60def8ef-2205-456a-9ee7-554cc3d3de56.gif)
 
--> Input_Table_Form made in react js(TypeScript)
+#Input_Table_Form made in react js(TypeScript)
 -> classComponets use 
 -> dynamic table create 
 -> input take from form Name, age, marks with this fields
